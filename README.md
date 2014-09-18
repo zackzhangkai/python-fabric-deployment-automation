@@ -44,7 +44,7 @@ This project does a deployment on the remote server with the archive from the la
 * $ fab -f bin/manager.py -c settings/{env}/.fabricrc {task_name}
 ** Example:- fab -f bin/manager.py -c settings/qa/.fabricrc deploy
 
-#Refer the (wiki page on How to Set-up Jenkins for continuous integration)[]
+#Refer the (wiki page on How to Set-up Jenkins for continuous integration)[https://github.com/sidnan/python-fabric-deployment-automation/wiki/Setup-for-Git-Jenkins-build-hook]
 
 #Brief Description
 
