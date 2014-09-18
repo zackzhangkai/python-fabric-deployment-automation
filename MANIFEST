@@ -1,0 +1,7 @@
+README.md
+setup.py
+bin/manager.py
+tests/__init__.py
+tests/testmanagerutils.py
+utils/__init__.py
+utils/managerutils.py

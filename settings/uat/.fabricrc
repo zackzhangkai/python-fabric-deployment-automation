@@ -1,0 +1,8 @@
+hosts = <host_name>
+user = <user_name>
+key_filename = </path/to/key>
+environment_name = <environment_name>
+web_app_url = <www.website.com>
+path_to_archive = <http://<jenkins_server>/job/<job_name>/lastSuccessfulBuild/artifact/.../.../<application.war>>
+path_to_rollback = </path/to/file/which/hold/the/rollback/path>
+max_server_start_cycle = <int_value>

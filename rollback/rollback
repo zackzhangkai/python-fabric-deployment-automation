@@ -1,0 +1,1 @@
+http://<jenkins_server>/job/<job_name>/lastSuccessfulBuild/artifact/.../.../<application.war>
